@@ -4,10 +4,11 @@
 
 + Visual studio IDE does not working when I was try with .c file extension.
 
-+ ![Compile file](2021-01-17.png)
-
-<br/><br/>
-+ the photos with zoom..
++ This photo is before build.
++ ![Compile file](2021-01-8.png)
+<br/>
+##Detailed photos
++ ![Compile file](2021-01-17-4.png)
 
 + ![Compile file](2021-01-17_5.png)
 
@@ -16,3 +17,9 @@
 + ![Compile file](2021-01-17_7.png)
 
 + ![Compile File](2021-01-17-8.png)
++ ![Compile File](2021-01-17-8-2.png)
++ ![Compile File](2021-01-17-8-3.png)
++ ![Compile File](2021-01-17-8-4.png)
+<br/>
++ After debugging
++ ![Compile File](2021-01-17-12.png)
