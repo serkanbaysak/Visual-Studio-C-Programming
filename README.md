@@ -5,6 +5,10 @@
 + Visual studio IDE does not working with c code when i was try the .c file extension.
 
 + ![Compile file](2021-01-17.png)
+
++ the photos with zoom..
+\n
+
 + ![Compile file](2021-01-17_1.png)
 + ![Compile file](2021-01-17_2.png)
 + ![Compile file](2021-01-17_3.png)
