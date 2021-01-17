@@ -6,8 +6,10 @@
 
 + This photo is before build.
 + ![Compile file](2021-01_8.png)
-<br/><br/>
+<br/>
+<br/>
 ##Detailed photos
+
 + ![Compile file](2021-01-17_4.png)
 
 + ![Compile file](2021-01-17_5.png)
