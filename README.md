@@ -6,25 +6,6 @@
 
 + This photo is before build.
 
----
-
-helpviewer_keywords:
-  - "source code"
-  - ".dbg files"
-  - "source code, managing"
-  - "symbols, managing"
-  - ".pdb files"
-  - "dbg files"
-  - "pdb files"
-  - "debugger"
-ms.assetid: 1105e169-5272-4e7c-b3e7-cda1b7798a6b
-author: "mikejo5000"
-ms.author: "mikejo"
-manager: jillfra
-ms.workload:
-  - "multiple"
-
----
 ![Compile file](2021-01-17_8.png)
 
 <br/>
