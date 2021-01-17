@@ -1,8 +1,8 @@
 ##Visual Studio-C
 
-+ Visual Studio does not compile the .c code which is alaso in attachment. 
++ Visual Studio does not compile the .c code which can also seen in attachment. 
 
-+ Visual studio IDE does not working with c code when i was try the .c file extension.
++ Visual studio IDE does not working when I was try the .c file extension.
 
 + ![Compile file](2021-01-17.png)
 
