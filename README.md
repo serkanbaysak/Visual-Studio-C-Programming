@@ -4,11 +4,10 @@
 
 + Visual studio IDE does not working when I was try with .c file extension.
 
-<br/><br/>
-
 + ![Compile file](2021-01-17.png)
 
-## the photos with zoom..
+<br/><br/>
++ the photos with zoom..
 
 + ![Compile file](2021-01-17_1.png)
 
