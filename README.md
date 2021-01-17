@@ -1,4 +1,4 @@
-##Visual Studio-C
+## Visual Studio-C
 
 + Visual Studio does not compile the .c code which can also seen in attachment. 
 
@@ -8,7 +8,7 @@
 + ![Compile file](2021-01-17_8.png)
 <br/>
 <br/>
-##Detailed photos
+## Detailed photos
 
 + ![Compile file](2021-01-17-4.png)
 
