@@ -16,15 +16,15 @@ double main()
 
     int number_10;
 
-    printf("Enter the number to be reserved for digits...\n");
+    printf("Enter the number to be reserved to digits...\n");
     scanf("%d", &number_10);
-    printf("%d sayýsý %d basamaklý!\n", number_10, num_digit(number_10));
+    printf("%d number is %d digits!\n", number_10, num_digit(number_10));
 
     int number_2 = number_10;
     int number_2_printf = number_10;
     int x10[digit_counter_10];
 
-    for (/*digit_counter_10-=1*/; digit_counter_10 >= 1; --digit_counter_10)
+    for (; digit_counter_10 >= 1; --digit_counter_10)
     {
         x10[digit_counter_10] = number_10 % 10;
         number_10 = number_10 / 10;
@@ -65,8 +65,8 @@ double main()
     int g = add_zero_bit(i);
     int t = add_zero_bit(i);
 
-    printf("in the total %d bit is long...\n", i + g);
-    printf("%d binary equivalent of c =\n", number_2_printf);
+    printf("in the total bit long is %d ...\n", i + g);
+    printf("%d's number of equivalent at binary is =\n", number_2_printf);
 
     for (; i + t > i; --t)
     {
