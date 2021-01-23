@@ -1,6 +1,12 @@
 # Visual Studio-C
 
-+ Visual Studio does not compile the .c code which can also seen in attachment. 
++ This is regarding Visual Studio, not Visual Studio Code.
+
++ Intellisense is giving unexpected error before building.
+
++ In the The platforms my code is working. (onlinegdb.com , codeblocks)
+
++ Visual Studio does not build correctly the .c code which can also seen in attachment. 
 
 + Visual studio IDE does not working when I was try with .c file extension.
 
