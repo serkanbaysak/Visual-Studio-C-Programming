@@ -1,4 +1,4 @@
-# Visual Studio-C // is not define my c code.
+# Visual Studio-C // is not read corretcly my c code.
 
 + This is regarding Visual Studio, not Visual Studio Code.
 
